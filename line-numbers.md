@@ -6,7 +6,7 @@
 #### 6
 #### 7 Hello there
 #### 8
-#### 9
+#### GitHub is awesome.
 #### 10
 #### 11
 #### 12
