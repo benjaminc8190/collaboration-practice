@@ -8,7 +8,6 @@
 #### 8
 #### Github is really awesome
 #### 10
-<<<<<<< HEAD
 #### Practice makes perfect!
 #### 12
 #### 13
